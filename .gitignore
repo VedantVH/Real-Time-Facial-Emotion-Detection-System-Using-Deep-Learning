@@ -1,0 +1,8 @@
+venv/
+dataset/
+__pycache__/
+*.pyc
+.DS_Store
+models/
+*.h5
+*.keras
