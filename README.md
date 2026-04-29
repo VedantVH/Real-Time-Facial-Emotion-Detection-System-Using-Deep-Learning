@@ -156,8 +156,3 @@ streamlit run app.py
 - [ ] Cloud deployment (AWS / Streamlit Cloud)  
 - [ ] Emotion analytics tracking over time  
 
-<hr />
-
-<div align="center">
-  <p>Developed with ❤️ by Vedant.</p>
-</div>
